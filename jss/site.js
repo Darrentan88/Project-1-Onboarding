@@ -3,10 +3,7 @@ jQuery(function($) {
   $('html').removeClass('nojs');
   $('html').addClass('hasjs');
 });
-function changeImage() {
-    if (document.getElementById("imgClickAndChange").src == "images/00001.png"){
-        document.getElementById("imgClickAndChange").src = "images/the devil.png";
-    } else {
-        document.getElementById("imgClickAndChange").src = "images/00001.png";
-    }
-}
+var card = document.getElementbyId('cardfront');
+card.addEventListener('click',function(card){
+  card.target.classList.toggle('cardback');
+})
