@@ -18,38 +18,44 @@ body {
 }
 h1 {
 	font-size: 45px;
-	padding: 20px;
 	background-color:#FC88AB;
 	font-family: "Times New Roman", Times, serif;
 	color:#FFFFFF;
+	margin: auto;
+	text-align: center;
+	width:100%;
 }
-p {
-	padding: 30px;
+p {	
+	font-size: 45px
 	background-color:#FB5789;
 	font-family: "Times New Roman", Times, serif;
 	color:#FFFFFF;
+	margin: auto;
+	text-align: center;
+	width:75%;
 }
 #input-email{
 	background-color: #FB2D6B;
         text-align: center;
-  	width: 100%;
-	padding: 20px;
+  	width: 75%;
 	font-family: "Times New Roman", Times, serif;
 	color:#FFFFFF;
+	margin: auto;
 }
 #input-submit{
   	background-color: #F20049;
   	text-align: center;
   	width: 100%;
-	padding: 20px;
 	font-family: "Times New Roman", Times, serif;
 	color:#FFFFFF;
+	margin: auto;
 }
 img {
 	width= 512px;
 	height= 832px;
 	text-align: center;
 	color:#FFFFFF;
+	margin: auto;
 }
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
@@ -57,10 +63,10 @@ img:hover {
 #image-button{
   background-color: #FB5789;
   text-align: center;
-  width: 100%;
-  padding: 20px;
+  width: 25%;
   font-family: "Times New Roman", Times, serif;
   color:#FFFFFF;
+  margin: auto;
 }
 #age{
   background-color: #FC88AB;
@@ -76,6 +82,7 @@ img:hover {
 		width= 256px;
 		height= 416px;
 		text-align: center;
+		text-align: center;
 	}
   }
 }
@@ -83,6 +90,7 @@ img:hover {
  	img {
 		width= 128px;
 		height= 208px;
+		text-align: center;
 		text-align: center;
 	}
   }
