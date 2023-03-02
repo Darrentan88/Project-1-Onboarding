@@ -24,25 +24,29 @@ h1 {
 	font-size: 45px;
 	padding: 20px;
 	background-color:#FC88AB;
+	font-family: "Oswald", "Open Sans", Arial;
 }
 
 p {
-	padding: 20px;
+	padding: 30px;
 	background-color:#FB5789;
+	font-family: "Oswald", "Open Sans", Arial;
 }
 
 #input-email{
 	background-color: #FB2D6B;
-  text-align: center;
-  width: 100%;
+        text-align: center;
+  	width: 100%;
 	padding: 20px;
+	font-family: "Oswald", "Open Sans", Arial;
 }
 
 #input-submit{
-  background-color: #F20049;
-  text-align: center;
-  width: 100%;
+  	background-color: #F20049;
+  	text-align: center;
+  	width: 100%;
 	padding: 20px;
+	font-family: "Oswald", "Open Sans", Arial;
 }
 
 #myImage{
@@ -56,6 +60,7 @@ p {
   text-align: center;
   width: 100%;
   padding: 20px;
+  font-family: "Oswald", "Open Sans", Arial;
 }
 
 #age{
@@ -63,6 +68,7 @@ p {
   text-align: center;
   width: 100%;
   padding: 20px;
+  font-family: "Oswald", "Open Sans", Arial;
 }
 
 }
