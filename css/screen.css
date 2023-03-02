@@ -216,12 +216,12 @@ body {
 h1 {
 	font-size: 45px;
 	padding: 60px;
-	background-color:#e3dede;
+	background-color:#FC88AB;
 }
 
 p {
 	padding: 40px;
-	background-color:#999696;
+	background-color:#FB5789;
 }
 
 input, label{
@@ -233,21 +233,21 @@ input, label{
 }
 
 #input-email{
-	background-color: Blue;
+	background-color: #FB2D6B;
   text-align: center;
   width: 100%;
 	padding: 20px;
 }
 
 #input-age-verification{
-	background-color: Red;
+	background-color: #F9004B;
   text-align: center;
   width: 100%;
 	padding: 20px;
 }
 
 #input-submit{
-	background-color: Purple;
+	background-color: #F20049;
   text-align: center;
   width: 100%;
 	padding: 20px;
