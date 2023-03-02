@@ -35,7 +35,7 @@ h2 {
 	width:75%;
 }
 p {	
-	font-size: 45px
+	font-size: 45px;
 	background-color:#fb5789;
 	font-family: "Times New Roman", Times, serif;
 	color:#FFFFFF;
@@ -62,8 +62,8 @@ p {
 	border-color:#FFFFFF;
 }
 img {
-	width= 512px;
-	height= 832px;
+	width: 512px;
+	height: 832px;
 	text-align: center;
 	color:#FFFFFF;
 	margin: auto;
@@ -92,8 +92,8 @@ img:hover {
 }
 @media screen and (max-width: 992px) {
   	img {
-		width= 256px;
-		height= 416px;
+		width: 256px;
+		height: 416px;
 		text-align: center;
 		text-align: center;
 	}
@@ -101,8 +101,8 @@ img:hover {
 }
 @media screen and (max-width: 600px) {
  	img {
-		width= 128px;
-		height= 208px;
+		width: 128px;
+		height: 208px;
 		text-align: center;
 		text-align: center;
 	}
