@@ -1,10 +1,9 @@
-const img = document.getElementById('cardfront');
-let toggle = true;
-img.addEventListener('click', function(){
-  toggle = !toggle;
-  if (toggle){
-    img.src = "css/images/00001.png";
-  } else {
-    img.src = "css/images/the devil.png";
+function changeImage() {
+  var image = document.getElementById('myImage');
+  if (image.src.match("thedevil")) {
+    image.src = "css/images/00001.png";
+    }
+  else {
+    image.src = "css/images/thedevil.png";
   }
-})
+    }
