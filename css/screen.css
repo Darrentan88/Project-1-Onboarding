@@ -65,8 +65,9 @@ img:hover {
 #age{
   background-color: #FC88AB;
   text-align: center;
-  width: 250px;
+  width: 300px;
   padding: 20px;
+  margin: auto;
   font-family: "Times New Roman", Times, serif;
   color:#FFFFFF;
 }
