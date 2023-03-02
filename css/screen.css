@@ -239,13 +239,6 @@ input, label{
 	padding: 20px;
 }
 
-#input-age-verification{
-	background-color: #F9004B;
-  text-align: center;
-  width: 100%;
-	padding: 20px;
-}
-
 #input-submit{
 	background-color: #F20049;
   text-align: center;
@@ -256,7 +249,7 @@ input, label{
 .cardfront{
 	width:512px;
 	height:832px;
-	background: url(/images/00001.png) no repeat;
+	background: url(images/00001.png) no repeat;
 	margin: auto;
 	background-position: center;
 	padding: 20px;
@@ -264,7 +257,7 @@ input, label{
 .cardback{
 	width:512px;
 	height:832px;
-	background: url(/images/the devil.png) no repeat;
+	background: url(images/the devil.png) no repeat;
 	margin: auto;
 	background-position: center;
 	padding: 20px;
