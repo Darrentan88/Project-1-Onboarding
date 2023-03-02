@@ -50,6 +50,7 @@ p {
 	font-family: "Times New Roman", Times, serif;
 	color:#FFFFFF;
 	margin: auto;
+	border-color:#FFFFFF;
 }
 #input-submit{
   	background-color: #F20049;
@@ -58,6 +59,7 @@ p {
 	font-family: "Times New Roman", Times, serif;
 	color:#FFFFFF;
 	margin: auto;
+	border-color:#FFFFFF;
 }
 img {
 	width= 512px;
@@ -76,6 +78,7 @@ img:hover {
   font-family: "Times New Roman", Times, serif;
   color:#FFFFFF;
   margin: auto;
+  border-color:#FFFFFF;
 }
 #age{
   background-color: #FC88AB;
@@ -84,6 +87,7 @@ img:hover {
   margin: auto;
   font-family: "Times New Roman", Times, serif;
   color:#FFFFFF;
+  border-color:#FFFFFF;
 }
 }
 @media screen and (max-width: 992px) {
