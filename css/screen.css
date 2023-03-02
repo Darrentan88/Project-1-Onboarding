@@ -101,7 +101,7 @@ img:hover {
   }
 }
 
-input {
+input[type=button], input[type=submit], input[type=reset] {
   background-color: #04AA6D;
   border: none;
   color: white;
