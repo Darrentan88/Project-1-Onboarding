@@ -31,14 +31,6 @@ p {
 	background-color:#FB5789;
 }
 
-input, label{
-	margin-left: auto;
-	margin-right: auto;
-	font-family: "Oswald", "Open Sans", Arial;
-  padding: 0.75em 0.75em 0.75em 0.75em;
-  display: inline-block;
-}
-
 #input-email{
 	background-color: #FB2D6B;
   text-align: center;
@@ -70,5 +62,15 @@ input, label{
 @media screen and (max-width: 600px) {
   
   }
+}
+
+input {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
 }
 /* ===== STATE STYLES ======= */
