@@ -61,4 +61,80 @@ input, label{
 	width:100%;
 	height100%;
 }
+
+@media screen and (max-width: 992px) {
+  	body {
+ 	 font-family: "Oswald", "Open Sans", Arial;
+ 	 text-align: center;
+ 	 font-size: 10px;
+ 	 line-height: 20px; 
+	}
+  	h1 {
+	font-size: 22px;
+	padding: 30px;
+	background-color:#FC88AB;
+}
+	p {
+	padding: 20px;
+	background-color:#FB5789;
+}
+	input, label{
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Oswald", "Open Sans", Arial;
+  	padding: 0.32em 0.32em 0.32em 0.32em;
+  	display: inline-block;
+}
+	#input-email{
+	background-color: #FB2D6B;
+  	text-align: center;
+  	width: 50%;
+	padding: 10px;
+}
+	#input-submit{
+	background-color: #F20049;
+  	text-align: center;
+  	width: 50%;
+	padding: 10px;
+}
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+ 	 font-family: "Oswald", "Open Sans", Arial;
+ 	 text-align: center;
+ 	 font-size: 10px;
+ 	 line-height: 20px; 
+	}
+  h1 {
+	font-size: 22px;
+	padding: 30px;
+	background-color:#FC88AB;
+}
+p {
+	padding: 20px;
+	background-color:#FB5789;
+}
+input, label{
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Oswald", "Open Sans", Arial;
+  padding: 0.32em 0.32em 0.32em 0.32em;
+  display: inline-block;
+}
+#input-email{
+	background-color: #FB2D6B;
+  text-align: center;
+  width: 50%;
+	padding: 10px;
+}
+#input-submit{
+	background-color: #F20049;
+  text-align: center;
+  width: 50%;
+	padding: 10px;
+}
+  }
+}
 /* ===== STATE STYLES ======= */
