@@ -25,6 +25,15 @@ h1 {
 	text-align: center;
 	width:100%;
 }
+h2 {
+	font-size: 45px;
+	background-color:#FC88AB;
+	font-family: "Times New Roman", Times, serif;
+	color:#FFFFFF;
+	margin: auto;
+	text-align: center;
+	width:75%;
+}
 p {	
 	font-size: 45px
 	background-color:#fb5789;
