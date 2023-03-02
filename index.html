@@ -14,14 +14,17 @@
     <p>
       Sign up and learn about the upcoming expansion and innovation to the NFT market
     </p>
-    <img src="css/images/00001.png" id="myImage" width="512" height="832">                                       
-    <label for="Change image">Change Card</label>
-      <input type="button" onclick="changeImage()" value="Change" />
+    <img src="css/images/00001.png" id="myImage" width="512" height="832">      
     
-    <label for="Age">Age</label>
-      <input type="age" name="age" id="age" pattern="[0-9]+" />     
-                                                              
     <ol>
+     <li id="image-button">
+     <label for="Change image">Change Card</label>
+       <input type="button" onclick="changeImage()" value="Change" />
+     </li>
+      <li id="age">
+      <label for="Age">Age</label>
+       <input type="age" name="age" id="age" pattern="[0-9]+" />     
+     </li>                                                   
       <li id="input-email">
         <label for="email">Email</label>
         <input type="email" name="email" id="email" pattern="^.+@.+$" />
