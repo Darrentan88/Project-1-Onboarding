@@ -21,13 +21,13 @@ h1 {
 	padding: 20px;
 	background-color:#FC88AB;
 	font-family: "Times New Roman", Times, serif;
-	color:#7236C2;
+	color:#FFFFFF;
 }
 p {
 	padding: 30px;
 	background-color:#FB5789;
 	font-family: "Times New Roman", Times, serif;
-	color:#7236C2;
+	color:#FFFFFF;
 }
 #input-email{
 	background-color: #FB2D6B;
@@ -35,7 +35,7 @@ p {
   	width: 100%;
 	padding: 20px;
 	font-family: "Times New Roman", Times, serif;
-	color:#7236C2;
+	color:#FFFFFF;
 }
 #input-submit{
   	background-color: #F20049;
@@ -43,13 +43,13 @@ p {
   	width: 100%;
 	padding: 20px;
 	font-family: "Times New Roman", Times, serif;
-	color:#7236C2;
+	color:#FFFFFF;
 }
 img {
 	width= 512px;
 	height= 832px;
 	text-align: center;
-	color:#7236C2;
+	color:#FFFFFF;
 }
 img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
@@ -60,7 +60,7 @@ img:hover {
   width: 100%;
   padding: 20px;
   font-family: "Times New Roman", Times, serif;
-  color:#7236C2;
+  color:#FFFFFF;
 }
 #age{
   background-color: #FC88AB;
