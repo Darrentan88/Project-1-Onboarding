@@ -49,7 +49,7 @@ p {
 	font-family: "Oswald", "Open Sans", Arial;
 }
 
-#myImage{
+img {
 	width= 512px;
 	height= 832px;
 	text-align: center;
@@ -73,7 +73,7 @@ p {
 
 }
 @media screen and (max-width: 992px) {
-  	#myImage{
+  	img {
 		width= 256px;
 		height= 416px;
 		text-align: center;
@@ -82,7 +82,7 @@ p {
 }
 
 @media screen and (max-width: 600px) {
- 	#myImage{
+ 	img {
 		width= 128px;
 		height= 208px;
 		text-align: center;
