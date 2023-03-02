@@ -258,11 +258,15 @@ input, label{
 	height:832px;
 	background: url('00001.png') no repeat;
 	margin: auto;
-}
+	background-position: center;
+	padding: 20px;
+}	
 .cardback{
 	width:512px;
 	height:832px;
 	background: url('the devil.png') no repeat;
 	margin: auto;
+	background-position: center;
+	padding: 20px;
 }
 /* ===== STATE STYLES ======= */
