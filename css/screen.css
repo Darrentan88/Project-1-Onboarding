@@ -36,21 +36,23 @@ p {
 }
 
 #input-email{
-	background-color: #FB2D6B;
-        text-align: center;
-  	width: 100%;
-	padding: 20px;
-	font-family: "Times New Roman", Times, serif;
-	color:#7236C2;
+  	background-color: #04AA6D;
+ 	border: none;
+ 	color: white;
+	padding: 16px 32px;
+	text-decoration: none;
+  	margin: 4px 2px;
+	cursor: pointer;
 }
 
 #input-submit{
-  	background-color: #F20049;
-  	text-align: center;
-  	width: 100%;
-	padding: 20px;
-	font-family: "Times New Roman", Times, serif;
-	color:#7236C2;
+  	background-color: #04AA6D;
+ 	border: none;
+ 	color: white;
+	padding: 16px 32px;
+	text-decoration: none;
+  	margin: 4px 2px;
+	cursor: pointer;
 }
 
 img {
@@ -65,21 +67,23 @@ img:hover {
 }
 
 #image-button{
-  background-color: #FB5789;
-  text-align: center;
-  width: 100%;
-  padding: 20px;
-  font-family: "Times New Roman", Times, serif;
-  color:#7236C2;
+  	background-color: #04AA6D;
+ 	border: none;
+ 	color: white;
+	padding: 16px 32px;
+	text-decoration: none;
+  	margin: 4px 2px;
+	cursor: pointer;
 }
 
 #age{
-  background-color: #FC88AB;
-  text-align: center;
-  width: 100%;
-  padding: 20px;
-  font-family: "Times New Roman", Times, serif;
-  color:#7236C2;
+  	background-color: #04AA6D;
+ 	border: none;
+ 	color: white;
+	padding: 16px 32px;
+	text-decoration: none;
+  	margin: 4px 2px;
+	cursor: pointer;
 }
 
 }
@@ -101,13 +105,4 @@ img:hover {
   }
 }
 
-input[type=button], input[type=submit], input[type=reset] {
-  background-color: #04AA6D;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-decoration: none;
-  margin: 4px 2px;
-  cursor: pointer;
-}
 /* ===== STATE STYLES ======= */
