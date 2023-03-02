@@ -8,13 +8,13 @@ html {
 label {
   display: block;
   font-size: 30px;
-  font-family: 'Oswald', 'Open Sans', Arial;
+  font-family: "Times New Roman", Times, serif;
 }
 
 /* ===== LAYOUT STYLES ====== */
 
 body {
-  font-family: "Oswald", "Open Sans", Arial;
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
   font-size: 20px;
   line-height: 40px; 
@@ -24,13 +24,13 @@ h1 {
 	font-size: 45px;
 	padding: 20px;
 	background-color:#FC88AB;
-	font-family: "Oswald", "Open Sans", Arial;
+	font-family: "Times New Roman", Times, serif;
 }
 
 p {
 	padding: 30px;
 	background-color:#FB5789;
-	font-family: "Oswald", "Open Sans", Arial;
+	font-family: "Times New Roman", Times, serif;
 }
 
 #input-email{
@@ -38,7 +38,7 @@ p {
         text-align: center;
   	width: 100%;
 	padding: 20px;
-	font-family: "Oswald", "Open Sans", Arial;
+	font-family: "Times New Roman", Times, serif;
 }
 
 #input-submit{
@@ -46,7 +46,7 @@ p {
   	text-align: center;
   	width: 100%;
 	padding: 20px;
-	font-family: "Oswald", "Open Sans", Arial;
+	font-family: "Times New Roman", Times, serif;
 }
 
 img {
@@ -64,7 +64,7 @@ img:hover {
   text-align: center;
   width: 100%;
   padding: 20px;
-  font-family: "Oswald", "Open Sans", Arial;
+  font-family: "Times New Roman", Times, serif;
 }
 
 #age{
@@ -72,7 +72,7 @@ img:hover {
   text-align: center;
   width: 100%;
   padding: 20px;
-  font-family: "Oswald", "Open Sans", Arial;
+  font-family: "Times New Roman", Times, serif;
 }
 
 }
