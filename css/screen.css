@@ -256,7 +256,7 @@ input, label{
 .cardfront{
 	width:512px;
 	height:832px;
-	background: url('images/00001.png') no repeat;
+	background: url('00001.png') no repeat;
 	margin: auto;
 }
 /* ===== STATE STYLES ======= */
