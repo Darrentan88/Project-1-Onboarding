@@ -91,36 +91,35 @@ img:hover {
   color:#FFFFFF;
   border-color:#FFFFFF;
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1024px) {
 	input[type=text], input[type=email], input[type=password] {
-  	width: 90%;
-	max-width: 400px; /* or adjust as needed */
- 	margin: 0 auto; /* to center the inputs */
-	text-align: center;
-	text-align: center;
-}
-  	img {
+  		width: 90%;
+		max-width: 400px;
+		margin: 0 auto;
+		text-align: center;
+	}
+	img {
 		width: 256px;
 		height: 416px;
-		text-align: center;
-		text-align: center;
+		margin: 0 auto;
+		display: block;
 	}
-  }
+}
+
 @media screen and (max-width: 600px) {
 	input[type=text], input[type=email], input[type=password] {
-  	width: 90%;
-	max-width: 400px; /* or adjust as needed */
- 	margin: 0 auto; /* to center the inputs */
-	text-align: center;
-	text-align: center;
-}
- 	img {
-		width: 128px;
-		height: 208px;
-		text-align: center;
+  		width: 90%;
+		max-width: 300px;
+		margin: 0 auto;
 		text-align: center;
 	}
-  }
+	img {
+		width: 128px;
+		height: 208px;
+		margin: 0 auto;
+		display: block;
+	}
+}
 
 
 /* ===== STATE STYLES ======= */
