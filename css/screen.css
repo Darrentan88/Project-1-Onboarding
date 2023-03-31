@@ -92,27 +92,43 @@ img:hover {
   border-color:#FFFFFF;
 }
 @media screen and (max-width: 1024px) {
-	input[type=text], input[type=email], input[type=password] {
-  		width: 90%;
+	h1 {
+  		font-size: 30px;
+ 		line-height: 1.2;
+		}	
+	h2, p {
+  		font-size: 20px;
+  		line-height: 1.4;
+		}
+	h2, p, #input-email, #input-submit, #age {
+ 		width: 90%;
+ 		margin: 10px auto;
 		max-width: 400px;
-		margin: 0 auto;
 		text-align: center;
-	}
+		}
 	img {
 		width: 256px;
 		height: 416px;
 		margin: 0 auto;
 		display: block;
-	}
+		}
 }
 
 @media screen and (max-width: 600px) {
-	input[type=text], input[type=email], input[type=password] {
-  		width: 90%;
+	h1 {
+  		font-size: 30px;
+ 		line-height: 1.2;
+		}	
+	h2, p {
+  		font-size: 20px;
+  		line-height: 1.4;
+		}
+	h2, p, #input-email, #input-submit, #age {
+ 		width: 90%;
+ 		margin: 10px auto;
 		max-width: 300px;
-		margin: 0 auto;
 		text-align: center;
-	}
+		}
 	img {
 		width: 128px;
 		height: 208px;
