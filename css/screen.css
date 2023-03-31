@@ -92,6 +92,13 @@ img:hover {
   border-color:#FFFFFF;
 }
 @media screen and (max-width: 992px) {
+	input[type=text], input[type=email], input[type=password] {
+  	width: 90%;
+	max-width: 400px; /* or adjust as needed */
+ 	margin: 0 auto; /* to center the inputs */
+	text-align: center;
+	text-align: center;
+}
   	img {
 		width: 256px;
 		height: 416px;
@@ -100,6 +107,13 @@ img:hover {
 	}
   }
 @media screen and (max-width: 600px) {
+	input[type=text], input[type=email], input[type=password] {
+  	width: 90%;
+	max-width: 400px; /* or adjust as needed */
+ 	margin: 0 auto; /* to center the inputs */
+	text-align: center;
+	text-align: center;
+}
  	img {
 		width: 128px;
 		height: 208px;
